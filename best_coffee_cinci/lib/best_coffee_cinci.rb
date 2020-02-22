@@ -1,6 +1,6 @@
-require "best_coffee_shops/version"
+require "best_coffee_cinci/version"
 
-module BestCoffeeShops
+module BestCoffeeCinci
   class Error < StandardError; end
   # Your code goes here...
 end
